@@ -1,0 +1,4 @@
+it\prova\model\Automobile.class
+it\prova\web\listener\LocalEntityManagerFactoryListener.class
+it\prova\model\StatoUtente.class
+it\prova\model\Utente.class
